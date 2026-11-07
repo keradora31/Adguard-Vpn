@@ -205,3 +205,6 @@ This repository serves as the official landing page for AdGuard VPN. The softwar
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of AdGuard VPN today!**
+
+---
+**Last updated:** 2026-11-07 21:12:56 UTC
