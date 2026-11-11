@@ -207,4 +207,4 @@ This repository serves as the official landing page for AdGuard VPN. The softwar
 **Get the most recent version of AdGuard VPN today!**
 
 ---
-**Last updated:** 2026-11-11 00:19:16 UTC
+**Last updated:** 2026-11-11 07:21:51 UTC
